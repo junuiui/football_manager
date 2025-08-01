@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "prisma": "^6.13.0"
+  },
+  "dependencies": {
+    "@nestjs-modules/mailer": "^2.0.2",
+    "@nestjs/config": "^4.0.2",
+    "@prisma/client": "^6.13.0"
+  }
+}
